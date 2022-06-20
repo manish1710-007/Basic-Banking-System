@@ -1,2 +1,12 @@
 # Basic-Banking-System
- basic banking system
+ 
+ Introduction
+A web application used to transfer money between two users.
+
+Technologies Used:
+Front-End:
+HTML
+CSS
+
+Flow of the website
+Home > View Customer > Select One Customer > Transfer Money > Select Receiver > View Customer
